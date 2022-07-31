@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@octokit/rest": "^19.0.3",
+    "github-api": "^3.4.0",
+    "github-helper": "^0.1.7"
+  }
+}
